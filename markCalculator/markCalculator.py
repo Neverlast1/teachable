@@ -3,7 +3,7 @@ students = []
 studentMarks = []
 
 i = bool(0)
-
+# dev ready
 while i == 0:
     studentNum = str(input("Please enter the Student Number: "))
     examMark = float(input("Please enter the student's Exam Mark (/150): "))
